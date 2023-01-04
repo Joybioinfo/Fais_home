@@ -12,7 +12,7 @@ Fais Lab's guide to refining your survival skills.
 ## Git
 
 ### shirokane
-The best? way coding on shirokane
+The best? way of coding on shirokane
 
 ## other tools power up your productivity
 
