@@ -27,3 +27,8 @@ The best? way of coding on shirokane
 ## jupyter notebook/lab
 
 # website
+
+# Literature Management
+Zotero is a free software for doing that.
+Here is a tutorial to enlarge it's cloud storge:
+https://sealhuang.github.io/zotero
