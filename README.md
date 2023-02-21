@@ -32,3 +32,7 @@ The best? way of coding on shirokane
 Zotero is a free software for doing that.
 Here is a tutorial to enlarge it's cloud storge:
 https://sealhuang.github.io/zotero
+
+# Chinese contents
+1. learn coding (full stack): https://github.com/pkuflyingpig/cs-self-learning/
+2. setup Mac: https://github.com/macdao/ocds-guide-to-setting-up-mac
